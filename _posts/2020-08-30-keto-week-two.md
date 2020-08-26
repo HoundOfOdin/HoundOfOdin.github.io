@@ -46,19 +46,20 @@ Day | Lunch | Dinner
 <details><summary>Roast Beef Lettuce Wrap with side of Cubed Cheese</summary>
 <p>
 
-**Ingredients**
-
-- Roast beef cold cuts, 8 oz (227g)
-- Mustard, 2 tsp (10g)
-- Cheese, 4 tbsp, shredded (28g)
-- Tomato, diced, 1 plum tomato (62g)
-- Romaine lettuce, 2 outer leaf (56g)
-- Cheese, cubed, 3.5 oz (95g)
-
-**Directions**
-
-1. Cube the cheese
-2. Build wrap to your liking.
+<p><strong>Ingredients</strong></p>
+<ul>
+<li>Roast beef cold cuts, 8 oz (227g)</li>
+<li>Mustard, 2 tsp (10g)</li>
+<li>Cheese, 4 tbsp, shredded (28g)</li>
+<li>Tomato, diced, 1 plum tomato (62g)</li>
+<li>Romaine lettuce, 2 outer leaf (56g)</li>
+<li>Cheese, cubed, 3.5 oz (95g)</li>
+</ul>
+<p><strong>Directions</strong></p>
+<ol>
+<li>Cube the cheese</li>
+<li>Build wrap to your liking.</li>
+</ol>
 
 </p>
 </details>
@@ -66,21 +67,22 @@ Day | Lunch | Dinner
 <details><summary>Indian Chicken Wings and Broccoli</summary>
 <p>
 
-**Ingredients**
-
-- Oil, 1/4 tbsp (4mL)
-- Chicken wings, with skin, 1 lbs (454g)
-- Salt, 1 tsp (6g)
-- Curry power, 1 1/2 tbsp (9g)
-- Broccoli, 1 1/2 cup (137g)
-
-**Directions**
-
-1. Preheat oven to 450 F (230 C)
-2. Grease a large baking tray with the oil of your choice.
-3. Season the wings with the salt and curry powder, being sure to rub it in and coat all sides.
-4. Bake in the oven for 35-40 minutes or until the internal temperature reaches 165 F (75 C)
-5. When chicken has 10 minutes remaining, cook broccoli according to package
+<p><strong>Ingredients</strong></p>
+<ul>
+<li>Oil, 1/4 tbsp (4mL)</li>
+<li>Chicken wings, with skin, 1 lbs (454g)</li>
+<li>Salt, 1 tsp (6g)</li>
+<li>Curry power, 1 1/2 tbsp (9g)</li>
+<li>Broccoli, 1 1/2 cup (137g)</li>
+</ul>
+<p><strong>Directions</strong></p>
+<ol>
+<li>Preheat oven to 450 F (230 C)</li>
+<li>Grease a large baking tray with the oil of your choice.</li>
+<li>Season the wings with the salt and curry powder, being sure to rub it in and coat all sides.</li>
+<li>Bake in the oven for 35-40 minutes or until the internal temperature reaches 165 F (75 C)</li>
+<li>When chicken has 10 minutes remaining, cook broccoli according to package</li>
+</ol>
 
 </p>
 </details>
@@ -88,21 +90,22 @@ Day | Lunch | Dinner
 <details><summary>Marinade Chicken Breast</summary>
 <p>
 
-**Ingredients**
-
-- Boneless, skinless chicken breast, 1 lbs (448g)
-- Marinade sauce, 1/2 c (118 mL)
-
-**Directions**
-
-1. Place the chicken in a ziploc bag with the marinade and mush it around to around to ensure the chicken is fully coated.
-2. Refrigerate and marinade for at least 1 hour, but preferably overnight
-3. Bake
-4. Preheat the oven to 400 F
-5. Remove the chicken from the bag, discarding excess marinade, and bake for 10 minutes in preheated oven.
-6. After the 10 minutes, turn the chicken and bake until no longer ink in the center and juices run clear, about 15 more minutes.
-7. Preheat the oven to broil/grill.
-8. Remove the chicken from the bag, discarding excess marinade, and broil until no longer pink inside, usually 4-8 minutes per side.
+<p><strong>Ingredients</strong></p>
+<ul>
+<li>Boneless, skinless chicken breast, 1 lbs (448g)</li>
+<li>Marinade sauce, 1/2 c (118 mL)</li>
+</ul>
+<p><strong>Directions</strong></p>
+<ol>
+<li>Place the chicken in a ziploc bag with the marinade and mush it around to around to ensure the chicken is fully coated.</li>
+<li>Refrigerate and marinade for at least 1 hour, but preferably overnight</li>
+<li>Bake</li>
+<li>Preheat the oven to 400 F</li>
+<li>Remove the chicken from the bag, discarding excess marinade, and bake for 10 minutes in preheated oven.</li>
+<li>After the 10 minutes, turn the chicken and bake until no longer ink in the center and juices run clear, about 15 more minutes.</li>
+<li>Preheat the oven to broil/grill.</li>
+<li>Remove the chicken from the bag, discarding excess marinade, and broil until no longer pink inside, usually 4-8 minutes per side.</li>
+</ol>
 
 </p>
 </details>
@@ -110,17 +113,18 @@ Day | Lunch | Dinner
 <details><summary>Buttered Broccoli</summary>
 <p>
 
-**Ingredients**
-
-- Black pepper, 1/2 dash
-- Salt, 1/2 dash
-- Frozen broccoli, 1 c (91g)
-- Butter, 1 tbsp (14g)
-
-**Directions**
-
-1. Prepare broccoli according to instructions on package.
-2. Mix in butter until melted and season with salt and pepper to taste.
+<p><strong>Ingredients</strong></p>
+<ul>
+<li>Black pepper, 1/2 dash</li>
+<li>Salt, 1/2 dash</li>
+<li>Frozen broccoli, 1 c (91g)</li>
+<li>Butter, 1 tbsp (14g)</li>
+</ul>
+<p><strong>Directions</strong></p>
+<ol>
+<li>Prepare broccoli according to instructions on package.</li>
+<li>Mix in butter until melted and season with salt and pepper to taste.</li>
+</ol>
 
 </p>
 </details>
@@ -128,21 +132,22 @@ Day | Lunch | Dinner
 <details><summary>Pepper Steak with Broccoli</summary>
 <p>
 
-**Ingredients**
-
-- Black pepper, 2 tsp, ground (5g)
-- Rosemary, 1/3 tsp
-- Butter, 1 tbsp (14g)
-- Salt, 1/3 tsp (2g)
-- Ribeye, 8 oz (227g)
-- Broccoli, 1 cup (91g)
-
-**Directions**
-
-1. Coat both sides of steaks with pepper and rosemary.
-2. Heat butter in a large skillet. Add steaks and cook over medium-high heat for 5-7 minutes per side for medium
-3. Set broccoli to steam when first add steaks to skillet
-4. Remove steaks from skillet and sprinkle with salt
+<p><strong>Ingredients</strong></p>
+<ul>
+<li>Black pepper, 2 tsp, ground (5g)</li>
+<li>Rosemary, 1/3 tsp</li>
+<li>Butter, 1 tbsp (14g)</li>
+<li>Salt, 1/3 tsp (2g)</li>
+<li>Ribeye, 8 oz (227g)</li>
+<li>Broccoli, 1 cup (91g)</li>
+</ul>
+<p><strong>Directions</strong></p>
+<ol>
+<li>Coat both sides of steaks with pepper and rosemary.</li>
+<li>Heat butter in a large skillet. Add steaks and cook over medium-high heat for 5-7 minutes per side for medium</li>
+<li>Set broccoli to steam when first add steaks to skillet</li>
+<li>Remove steaks from skillet and sprinkle with salt</li>
+</ol>
 
 </p>
 </details>
