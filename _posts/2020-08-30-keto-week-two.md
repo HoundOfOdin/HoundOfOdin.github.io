@@ -22,6 +22,8 @@ Day | Lunch | Dinner
 **Fri** | Pepper steak with broccoli | Marinade chicken breast and buttered broccoli
 **Sat** | Pepper steak with broccoli | Marinade chicken breast and buttered broccoli
 
+<br>
+
 ### Grocery List
 
 - [ ] Oil (3/4 tbsp, 11 mL)
@@ -40,6 +42,8 @@ Day | Lunch | Dinner
 - [ ] Cheese (18 oz, 509g)
 - [ ] Butter (1/2 c, 118g)
 - [ ] Ribeye (24 oz, 680g)
+
+<br>
 
 ### Recipes (in order of occurrence in meal plan)
 

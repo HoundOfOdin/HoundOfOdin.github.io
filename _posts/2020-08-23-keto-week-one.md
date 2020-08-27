@@ -20,7 +20,9 @@ Day | Lunch | Dinner
 **Wed** | Creamy chipotle pork chops with buttered broccoli | Sugar-free BBQ chicken wings with buttered broccoli
 **Thurs** | Creamy chipotle pork chops with buttered broccoli | Sugar-free BBQ chicken wings with buttered broccoli
 **Fri** | Creamy chipotle pork chops with buttered broccoli | Sugar-free BBQ chicken wings with buttered broccoli
-**Sat** | Creamy chipotle pork chops with buttered broccoli | Sugar-free BBQ chicken wings with buttered broccoli
+**Sat** | Creamy chipotle pork chops with buttered broccoli | Sugar-free BBQ chicken wings with buttered broccoli  
+
+<br>  
 
 ### Grocery List (what's needed to make everything in the meal plan)
 
@@ -45,10 +47,14 @@ Day | Lunch | Dinner
 - [ ] Sugar-free BBQ sauce (1/2 c, 120g)
 - [ ] Coconut milk (3/8 c, 169 mL)
 
+<br>
+
 ### Recipes (in order of occurrence in meal plan)
 
 <details><summary>Ham, Bacon, Avocado, and Cheese Lettuce Wrap with side of sliced cheese</summary>
 <p>
+
+<p><img src="../assets/img/hamBaconAvocadoLettuceWrap.png#thumbnail" alt="Ham Bacon Avocado and Cheese Wrap"></p>
 
 <p><strong>Ingredients</strong></p>
 <ul>
@@ -72,6 +78,8 @@ Day | Lunch | Dinner
 
 <details><summary>Coriander and Cumin Rubbed Pork Chops</summary>
 <p>
+
+<p><img src="../assets/img/corianderCuminPorkChops.png#thumbnail" alt="Coriander and Cumin Rubbed Pork Chops"></p>
 
 <p><strong>Ingredients</strong></p>
 <ul>
@@ -111,6 +119,28 @@ Day | Lunch | Dinner
 </p>
 </details>
 
+<details><summary>Sugar-free BBQ Chicken Wings</summary>
+<p>
+
+<p><img src="../assets/img/sugarfreeBBQChickenWings.png#thumbnail" alt="Sugarfree BB@ Chicken Wings"></p>
+
+<p><strong>Ingredients</strong></p>
+<ul>
+<li>Chicken wings, with skin, 1 lbs (454g)</li>
+<li>Sugar-free barbecue sauce, 2 tbsp (30g)</li>
+</ul>
+<p><strong>Directions</strong></p>
+<ol>
+<li>Preheat oven to 400 F (200 C).</li>
+<li>Place wings on large baking sheet, and season with salt and pepper to taste.</li>
+<li>Cook in oven for about 45 minutes, or until the internal temperature reaches 165 F (75 C). Drain the pan of its juices a couple times while it cooks in order to get crispier wings.</li>
+<li>Optional: When the chicken is getting close to being done, add the barbecue sauce to a saucepan and heat until warmed through.</li>
+<li>Take wings out of the oven when done and toss with the barbecue sauce to coat.</li>
+</ol>
+
+</p>
+</details>
+
 <details><summary>Creamy Chipotle Pork Chops</summary>
 <p>
 
@@ -128,26 +158,6 @@ Day | Lunch | Dinner
 <li>Heat a walled skillet over medium heat and put the pork chops in.</li>
 <li>Cook on each side for about 4-5 minutes or until fully cooked.</li>
 <li>Pour coconut milk into skillet and add the rest of the chipotle seasoning and the chopped cilantro. Mix around pan until well-combined and warmed. Taste test to see if you should add any more seasoning.</li>
-</ol>
-
-</p>
-</details>
-
-<details><summary>Sugar-free BBQ Chicken Wings</summary>
-<p>
-
-<p><strong>Ingredients</strong></p>
-<ul>
-<li>Chicken wings, with skin, 1 lbs (454g)</li>
-<li>Sugar-free barbecue sauce, 2 tbsp (30g)</li>
-</ul>
-<p><strong>Directions</strong></p>
-<ol>
-<li>Preheat oven to 400 F (200 C).</li>
-<li>Place wings on large baking sheet, and season with salt and pepper to taste.</li>
-<li>Cook in oven for about 45 minutes, or until the internal temperature reaches 165 F (75 C). Drain the pan of its juices a couple times while it cooks in order to get crispier wings.</li>
-<li>Optional: When the chicken is getting close to being done, add the barbecue sauce to a saucepan and heat until warmed through.</li>
-<li>Take wings out of the oven when done and toss with the barbecue sauce to coat.</li>
 </ol>
 
 </p>
