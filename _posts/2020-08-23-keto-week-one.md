@@ -144,6 +144,8 @@ Day | Lunch | Dinner
 <details><summary>Creamy Chipotle Pork Chops</summary>
 <p>
 
+<p><img src="../assets/img/creamyChipotlePorkchop.png#thumbnail" alt="Creamy Chipotle Porkchop"></p>
+
 <p><strong>Ingredients</strong></p>
 <ul>
 <li>Oil, 1/2 tbsp (7mL)</li>
