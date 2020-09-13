@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Week Three
-subtitle: Keep on Trucking
+title: Week For
+subtitle: That's a lot of Wings
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
