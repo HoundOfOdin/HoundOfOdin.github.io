@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week For
+title: Week Four
 subtitle: That's a lot of Wings
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
